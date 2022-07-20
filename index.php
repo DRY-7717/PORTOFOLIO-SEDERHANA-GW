@@ -246,7 +246,7 @@ $resultwpu = $result['items'];
               <img src="<?= $youtubeprofilewindah; ?>" class="w-100 rounded-circle img-thumbnail" alt="">
             </div>
             <div class="col">
-              <h5 class="mt-4  mt-sm-4 mt-md-2 mt-lg-2 text-center text-sm-center text-md-start text-lg-start"><?= $wputitle; ?></h5>
+              <h5 class="mt-4  mt-sm-4 mt-md-2 mt-lg-2 text-center text-sm-center text-md-start text-lg-start"><?= $windahtitle; ?></h5>
               <h6 class="text-center text-sm-center text-md-start text-lg-start"><?= $windahsubscriber; ?> <span class="text-muted">subscribers</span></h6>
             </div>
           </div>
